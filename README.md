@@ -7,7 +7,7 @@ A guy who like to make a simple project
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nclsAW&layout=compact&theme=dark)
 
 ## My Skills
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-basis: 100;">
   <img src="https://skillicons.dev/icons?i=css,js,html,react,php,laravel,mysql,vite,bootstrap,nodejs,git,tailwind,npm,figma,jquery&perline=3" alt="My Skills">
 </div>
 
